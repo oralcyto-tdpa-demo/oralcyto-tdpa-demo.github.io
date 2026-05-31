@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:oralcyto-tdpa-demo.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:oralcyto-tdpa-demo.github.io#ec7cad885d7c4c7c564d556c77c5e8c361f977ed214bb41e5b52636d2ba95748",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:oralcyto-tdpa-demo.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "2mhqBIBqiDPOkZ3o9Apukw5P5IydT0sqisKt5hShTVc=",
+        "y": "rXvj2F-yHeNzlVN3HaUXNqOxHzBqeZ5oCUPqrqp7ULA=",
+        "kid": "ec7cad885d7c4c7c564d556c77c5e8c361f977ed214bb41e5b52636d2ba95748",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
