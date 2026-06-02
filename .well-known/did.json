@@ -6,15 +6,15 @@
   "id": "did:web:oralcyto-tdpa-demo.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:oralcyto-tdpa-demo.github.io#ec7cad885d7c4c7c564d556c77c5e8c361f977ed214bb41e5b52636d2ba95748",
+      "id": "did:web:oralcyto-tdpa-demo.github.io#33a10cb88927061ceabeb6212bb9bd0aef3d8d981d045eaa0e6f37c627955d85",
       "type": "JsonWebKey2020",
       "controller": "did:web:oralcyto-tdpa-demo.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "2mhqBIBqiDPOkZ3o9Apukw5P5IydT0sqisKt5hShTVc=",
-        "y": "rXvj2F-yHeNzlVN3HaUXNqOxHzBqeZ5oCUPqrqp7ULA=",
-        "kid": "ec7cad885d7c4c7c564d556c77c5e8c361f977ed214bb41e5b52636d2ba95748",
+        "x": "FF2fqkqyJRPZhw9QgkJ9Y_58i1v7ljcS0A1Cki7lTBs=",
+        "y": "OMYIqSfDy1ZuGiQGy7tpSKDSRiMM0RGqi-T48VgKNzg=",
+        "kid": "33a10cb88927061ceabeb6212bb9bd0aef3d8d981d045eaa0e6f37c627955d85",
         "alg": "ES256"
       }
     }
